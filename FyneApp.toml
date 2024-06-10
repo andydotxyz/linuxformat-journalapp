@@ -1,0 +1,5 @@
+[Details]
+  Icon = "Icon.png"
+  Name = "My Journal"
+  ID = "com.example.journal"
+  Version = "1.0.0"
